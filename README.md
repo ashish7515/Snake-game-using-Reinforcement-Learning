@@ -1,3 +1,3 @@
-# Snake-game-using-Reinforcement-Learning
+# Snake game using Reinforcement Learning
 
 
